@@ -5,6 +5,7 @@ vendor
 .phpunit.cache/
 .phpunit.cache
 .php-cs-fixer.cache
+pnpm-lock.yaml
 .idea
 tests/TestSupport/temp/
 node_modules/
